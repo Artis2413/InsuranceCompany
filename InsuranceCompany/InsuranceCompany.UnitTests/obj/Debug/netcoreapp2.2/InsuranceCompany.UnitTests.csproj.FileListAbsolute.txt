@@ -1,0 +1,17 @@
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.deps.json
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.runtimeconfig.json
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.runtimeconfig.dev.json
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.pdb
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.csprojAssemblyReference.cache
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.AssemblyInfoInputs.cache
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.AssemblyInfo.cs
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.pdb
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\bin\Debug\netcoreapp2.2\InsuranceCompany.pdb
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany.UnitTests\obj\Debug\netcoreapp2.2\InsuranceCompany.UnitTests.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\bin\Debug\InsuranceCompany.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\bin\Debug\InsuranceCompany.pdb
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.csprojAssemblyReference.cache
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.csproj.CoreCompileInputs.cache
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.dll
+C:\Users\artis\source\repos\InsuranceCompany\InsuranceCompany\obj\Debug\InsuranceCompany.pdb
