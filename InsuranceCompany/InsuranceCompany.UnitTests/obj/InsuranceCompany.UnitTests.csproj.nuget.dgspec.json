@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.UnitTests\\InsuranceCompany.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.UnitTests\\InsuranceCompany.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.UnitTests\\InsuranceCompany.UnitTests.csproj",
+        "projectName": "InsuranceCompany.UnitTests",
+        "projectPath": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.UnitTests\\InsuranceCompany.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Artis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Artis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.csproj": {
+                "projectPath": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.csproj",
+        "projectName": "InsuranceCompany",
+        "projectPath": "C:\\Users\\Artis\\Source\\Repos\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany\\InsuranceCompany.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
